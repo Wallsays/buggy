@@ -1,5 +1,6 @@
 # this object will be defined before any other backbone application modules will be loaded
 #= require_self
+#= require_tree ./models
 #= require_tree ./templates
 #= require_tree ./views
 #= require_tree ./routers
