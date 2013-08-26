@@ -5,5 +5,5 @@ class App.Views.Empty extends Backbone.View
   render: ->
     @$el.html('<h3>Choose the project from the left</h3>')
     @ 
-
+ 
  
